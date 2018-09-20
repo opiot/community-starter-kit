@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Use it if you're quoting a person, a song or whatever.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* an asterisk starts an unordered list
+* and this is another item in the list
++ or you can also use the + character
+- or the - character
+
 
 ## Getting started
 
